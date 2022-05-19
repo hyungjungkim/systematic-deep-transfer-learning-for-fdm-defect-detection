@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FDM Process Image Dataset
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Hyungjung
+    family-names: Kim
+    email: hjkim81@snu.ac.kr
+    affiliation: Seoul National University
+  - given-names: Hyunsu
+    family-names: Lee
+    email: lhs814@snu.ac.kr
+    affiliation: Seoul National University
