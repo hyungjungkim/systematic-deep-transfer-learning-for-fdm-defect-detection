@@ -1,4 +1,4 @@
-# FDM Image Dataset, v1
+# FDM Process Image Dataset, v1
 
 Normal images - 
 
