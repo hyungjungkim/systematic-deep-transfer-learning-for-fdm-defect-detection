@@ -1,5 +1,5 @@
 # FDM Process Image Dataset, v1
 
-Normal images - 
-
-Defective images (the spaghetti-shape error) - 
+- Total: 327 images
+- Normal case: 161 images
+- Defective case (the spaghetti-shape error): 166 images

@@ -5,7 +5,4 @@ Hyungjung Kim and Hyunsu Lee
 1. Dataset - FDM Image Dataset, including the spaghetti-shape error as defective
 
 2. Models of deep transfer learning
-   a. 
-   b. 
-   c.
-   d.
+ - To be updated.
