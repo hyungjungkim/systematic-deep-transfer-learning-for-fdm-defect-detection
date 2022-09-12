@@ -1,7 +1,7 @@
 ## Systematic deep transfer learning method based on a small image dataset for spaghetti-shape defect monitoring of fused deposition modeling
 
 
-###Hyungjung Kim, Hyunsu Lee, and Sung-Hoon Ahn
+### Hyungjung Kim, Hyunsu Lee, and Sung-Hoon Ahn
 
 Innovative Design & Integrated Manufacturing Lab. (IDIM)  
 Department of Mechanical Engineering  
