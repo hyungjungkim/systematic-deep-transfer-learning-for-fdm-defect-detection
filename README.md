@@ -7,10 +7,10 @@ In this repository, an FDM process image dataset is prepared with normal and def
 1. Dataset - FDM Image Dataset, including the spaghetti-shape error as defective
     - [Go to dataset infomation](dataset/fdm_process_image_dataset.md)  
     ![](/dataset/sample_images.jpg)  
-  <br>
+
 2. Model - systematic deep transfer learning, Python
     - [Go to source code](/src/systematic_deep_transfer_learning.md)  
-    ![](/src/systematic_deep_transfer_learning.jpg)
+    ![](/src/systematic_deep_transfer_learning.jpg)  
 
 ## Authors
 - Hyungjung Kim<sup>a</sup>, Hyunsu Lee<sup>b</sup>, and Sung-Hoon Ahn<sup>a,b</sup>  
