@@ -48,7 +48,7 @@ def generate_aug_images(source_path, output_path, set, label):
 
 if __name__ == '__main__':
     dataset_path = r'..\dataset\FDM_Process_Image_Dataset_v1'
-    aug_dataset_path = r'..\dataset\FDM_Process_Image_Dataset_v1_aug2'
+    aug_dataset_path = r'..\dataset\FDM_Process_Image_Dataset_v1_aug'
     sets = ['train', 'valid']
     labels = ['success', 'failure']
 
