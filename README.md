@@ -8,9 +8,9 @@ In this repository, an FDM process image dataset is prepared with normal and def
     - [Go to dataset infomation](dataset/fdm_process_image_dataset.md)  
     ![](/dataset/sample_images.jpg)  
 
-2. Model - systematic deep transfer learning, Python
-    - [Go to source code](/src/systematic_deep_transfer_learning.md)  
-    ![](/src/systematic_deep_transfer_learning.jpg)  
+2. Model - Systematic deep transfer learning
+    - [Go to source code](/model/systematic_deep_transfer_learning.md)  
+    ![](/model/systematic_deep_transfer_learning.jpg)  
 
 ## Authors
 - Hyungjung Kim<sup>a</sup>, Hyunsu Lee<sup>b</sup>, and Sung-Hoon Ahn<sup>a,b</sup>  
